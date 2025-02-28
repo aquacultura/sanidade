@@ -6,8 +6,6 @@ const AppRoutes = () => {
     return (
         <Routes>
             <Route path="/" element={<SanityAnalysis />} />
-            <Route path="/aquadata" element={<SanityAnalysis />} />
-
         </Routes>
     );
 };

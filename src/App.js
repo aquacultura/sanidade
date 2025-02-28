@@ -1,14 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
-// import SanityAnalysis from './pages/SanityAnalysis';
-import Routes from './routes';
+import React from "react";
+import { BrowserRouter } from "react-router-dom";
+import AppRoutes from "./routes"; // Renomeado para evitar conflito com Routes do React Router
+import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      {/* <SanityAnalysis /> */}
-      <Routes />
-    </div>
+    <BrowserRouter basename="/sanidade">
+      <AppRoutes />
+    </BrowserRouter>
   );
 }
 
