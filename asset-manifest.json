@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sanidade/static/css/main.2ba2afb3.css",
-    "main.js": "/sanidade/static/js/main.ff927580.js",
+    "main.js": "/sanidade/static/js/main.f5216038.js",
     "static/js/239.0ee698dc.chunk.js": "/sanidade/static/js/239.0ee698dc.chunk.js",
     "static/js/213.2acff52e.chunk.js": "/sanidade/static/js/213.2acff52e.chunk.js",
     "static/js/732.f7f96e75.chunk.js": "/sanidade/static/js/732.f7f96e75.chunk.js",
@@ -37,13 +37,13 @@
     "static/media/logo.svg": "/sanidade/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sanidade/index.html",
     "main.2ba2afb3.css.map": "/sanidade/static/css/main.2ba2afb3.css.map",
-    "main.ff927580.js.map": "/sanidade/static/js/main.ff927580.js.map",
+    "main.f5216038.js.map": "/sanidade/static/js/main.f5216038.js.map",
     "239.0ee698dc.chunk.js.map": "/sanidade/static/js/239.0ee698dc.chunk.js.map",
     "213.2acff52e.chunk.js.map": "/sanidade/static/js/213.2acff52e.chunk.js.map",
     "732.f7f96e75.chunk.js.map": "/sanidade/static/js/732.f7f96e75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ba2afb3.css",
-    "static/js/main.ff927580.js"
+    "static/js/main.f5216038.js"
   ]
 }
